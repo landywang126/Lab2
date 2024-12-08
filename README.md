@@ -1,4 +1,4 @@
-Student Information
+Student Information/n
 Name: 王玟婷
 Student ID: 41021112L
 GitHub ID: landywang126
